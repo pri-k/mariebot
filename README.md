@@ -1,4 +1,4 @@
-# tgbot
+# Marie - An Amazing Telegram bot
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
@@ -92,7 +92,7 @@ The following env variables are supported:
 
 Install the necessary python dependencies by moving to the project directory and running:
 
-`pip3 install -r requirements.txt`.
+`pip install -r requirements.txt`.
 
 This will install all necessary python packages.
 
